@@ -193,3 +193,41 @@ details p{padding:0 22px 20px;color:var(--ink-2);}
 .page p+p{margin-top:12px;}
 .page ul{padding-left:22px;}
 .page li{margin:6px 0;}
+
+/* ── SujithSoft home ─────────────────────────────────────── */
+.studio-mark{font-family:var(--display);font-weight:800;font-size:21px;letter-spacing:-.03em;color:var(--ink);}
+.studio-mark b{font-weight:800;background:var(--iris);-webkit-background-clip:text;background-clip:text;color:transparent;}
+.studio-hero-inner{display:grid;grid-template-columns:minmax(0,7fr) minmax(0,4fr);gap:56px;align-items:center;}
+.portrait{margin:0;justify-self:center;width:100%;max-width:380px;aspect-ratio:1;border-radius:32px;overflow:hidden;box-shadow:var(--shadow-lg);border:1px solid var(--line);
+  background:var(--iris);padding:5px;}
+.portrait img{width:100%;height:100%;object-fit:cover;border-radius:28px;}
+@media (max-width:860px){.studio-hero-inner{grid-template-columns:1fr;gap:36px;}.portrait{max-width:260px;justify-self:start;order:-1;}}
+
+.app-grid{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:20px;}
+.app-card{background:var(--card-solid);border:1px solid var(--line);border-radius:24px;overflow:hidden;box-shadow:var(--shadow);display:flex;flex-direction:column;}
+.app-shot{display:block;background:var(--accent-soft);border-bottom:1px solid var(--line);}
+.app-body{padding:24px 26px 26px;}
+.app-title{display:flex;gap:14px;align-items:center;margin-bottom:14px;}
+.app-title img{border-radius:11px;}
+.app-title h3{font-size:24px;}
+.app-title h3 a{color:var(--ink);text-decoration:none;}
+.app-title h3 a:hover{color:var(--accent);}
+.app-meta{font-size:14px;color:var(--ink-3);margin-top:2px;}
+.app-body>p{color:var(--ink-2);}
+.app-body .cta{margin-top:20px;}
+.app-body .btn{height:44px;padding:0 22px;font-size:15px;}
+.app-card.soon{background:var(--card);border-style:dashed;justify-content:center;}
+.soon-inner{padding:32px;text-align:center;}
+.soon-icon{font-size:34px;}
+.soon-inner h3{font-size:21px;margin:12px 0 6px;}
+.soon-inner p{color:var(--ink-3);}
+@media (max-width:860px){.app-grid{grid-template-columns:1fr;}}
+
+.apps,.about,.contact{padding:72px 0;}
+.about-card{display:grid;grid-template-columns:180px minmax(0,1fr);gap:36px;align-items:center;}
+.about-photo{width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:var(--shadow);border:4px solid var(--card-solid);}
+.about-card h2{font-size:clamp(26px,3vw,34px);margin-bottom:14px;}
+.about-card p{color:var(--ink-2);font-size:17px;}
+.about-card p+p{margin-top:12px;}
+@media (max-width:640px){.about-card{grid-template-columns:1fr;gap:24px;}.about-photo{width:120px;height:120px;}}
+@media (max-width:600px){.apps,.about,.contact{padding:52px 0;}}

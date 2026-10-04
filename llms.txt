@@ -1,13 +1,17 @@
-# S Converter
+# SujithSoft
+
+> SujithSoft is the software studio of Sujith Shalitha Dassanayake, making fast, private desktop apps for Windows. Home: https://sujithshalitha.github.io/
+
+## S Converter
 
 > S Converter is a free, offline, all-in-one file converter for Windows 10 and 11, made by Sujith Shalitha Dassanayake. It converts images, video, audio, documents, PDFs and archives in batches on the user's own PC. Files are never uploaded, and it needs no account.
 
-- Website: https://sujithshalitha.github.io/
+- Website: https://sujithshalitha.github.io/s-converter/
 - Download (latest installer): https://github.com/SujithShalitha/s-converter-releases/releases/latest
 - Price: free, no ads, no watermark on output files
 - Platform: Windows 10 (1803 or newer) and Windows 11, 64-bit. Not available for macOS, Linux, Android or iOS.
 
-## What it does
+### What it does
 
 - Images: JPG, PNG, WebP, AVIF, TIFF, GIF, BMP, SVG, HEIC/HEIF (iPhone) and camera RAW (CR2, NEF, ARW, DNG, RAF, ORF, RW2) to JPG, PNG, WebP, AVIF, TIFF, GIF or PDF. Resize, compress, presets (Email, Instagram, Web, Thumbnail).
 - Video: MP4, MKV, AVI, MOV, WMV, FLV, WebM, MPEG, M4V, 3GP, TS, VOB, MTS/M2TS, OGV to MP4, MKV, AVI, MOV, WebM, GIF, WMV, FLV, MPEG, 3GP, TS. GPU encoding on NVIDIA, Intel and AMD. Trim, resize, make GIFs, extract audio.
@@ -21,6 +25,7 @@
 
 ## Pages
 
-- [Home](https://sujithshalitha.github.io/): features, formats, install steps, FAQ
-- [Privacy policy](https://sujithshalitha.github.io/privacy.html): no data collected; only update checks contact GitHub
+- [SujithSoft home](https://sujithshalitha.github.io/): the studio, its apps, about Sujith
+- [S Converter](https://sujithshalitha.github.io/s-converter/): features, formats, install steps, FAQ
+- [S Converter privacy policy](https://sujithshalitha.github.io/s-converter/privacy.html): no data collected; only update checks contact GitHub
 - [Releases and changelog](https://github.com/SujithShalitha/s-converter-releases/releases)
