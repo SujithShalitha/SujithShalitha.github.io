@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://sujithshalitha.github.io/</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
-  <url><loc>https://sujithshalitha.github.io/s-converter/</loc><lastmod>2026-10-04</lastmod><priority>1.0</priority></url>
-  <url><loc>https://sujithshalitha.github.io/s-converter/privacy.html</loc><lastmod>2026-10-04</lastmod><priority>0.3</priority></url>
+  <url><loc>https://sujithshalitha.github.io/</loc><lastmod>2026-10-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sujithshalitha.github.io/s-converter/</loc><lastmod>2026-10-06</lastmod><priority>1.0</priority></url>
+  <url><loc>https://sujithshalitha.github.io/s-converter/heic-to-jpg/</loc><lastmod>2026-10-06</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sujithshalitha.github.io/s-converter/webp-to-jpg/</loc><lastmod>2026-10-06</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sujithshalitha.github.io/s-converter/jpg-to-pdf/</loc><lastmod>2026-10-06</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sujithshalitha.github.io/s-converter/pdf-to-jpg/</loc><lastmod>2026-10-06</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sujithshalitha.github.io/s-converter/word-to-pdf/</loc><lastmod>2026-10-06</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sujithshalitha.github.io/s-converter/powerpoint-to-pdf/</loc><lastmod>2026-10-06</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sujithshalitha.github.io/s-converter/compress-pdf/</loc><lastmod>2026-10-06</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sujithshalitha.github.io/s-converter/merge-pdf/</loc><lastmod>2026-10-06</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sujithshalitha.github.io/s-converter/mkv-to-mp4/</loc><lastmod>2026-10-06</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sujithshalitha.github.io/s-converter/video-to-mp3/</loc><lastmod>2026-10-06</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sujithshalitha.github.io/s-converter/video-to-gif/</loc><lastmod>2026-10-06</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sujithshalitha.github.io/s-converter/resize-images/</loc><lastmod>2026-10-06</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sujithshalitha.github.io/s-converter/privacy.html</loc><lastmod>2026-10-06</lastmod><priority>0.3</priority></url>
 </urlset>

@@ -238,3 +238,40 @@ details p{padding:0 22px 20px;color:var(--ink-2);}
 .store-badge:hover{transform:translateY(-1px);box-shadow:var(--shadow);}
 .app-body .store-badge img{height:44px;}
 @media (max-width:600px){.cta .store-badge{width:100%;justify-content:center;}}
+
+/* ── Guides (S Converter how-to pages) ───────────────────── */
+.guides{padding:72px 0;}
+.guide-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;}
+.guide-card{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:16px 18px;border-radius:14px;
+  background:var(--card-solid);border:1px solid var(--line);box-shadow:var(--shadow);color:var(--ink);text-decoration:none;font-weight:600;transition:transform .15s,box-shadow .15s;}
+.guide-card:hover{color:var(--ink);transform:translateY(-1px);box-shadow:var(--shadow-lg);}
+.guide-arrow{color:var(--accent);font-size:20px;}
+@media (max-width:900px){.guide-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+@media (max-width:560px){.guide-grid{grid-template-columns:1fr;}.guides{padding:52px 0;}}
+
+.guide{padding:40px 0 80px;background:var(--hero-glow) no-repeat top/100% 640px;}
+.crumbs{display:flex;flex-wrap:wrap;gap:8px;font-size:14px;color:var(--ink-3);margin-bottom:28px;}
+.crumbs a{color:var(--ink-2);text-decoration:none;}
+.crumbs a:hover{color:var(--accent);}
+.guide h1{font-size:clamp(32px,4.4vw,48px);font-weight:800;}
+.guide .lead{max-width:none;}
+.guide-block{margin-top:56px;}
+.guide-block h2{font-size:clamp(24px,2.8vw,30px);margin-bottom:18px;}
+.howto{counter-reset:step;list-style:none;padding:0;margin:0;display:grid;gap:12px;}
+.howto li{counter-increment:step;position:relative;padding:16px 18px 16px 64px;background:var(--card-solid);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);color:var(--ink-2);font-size:17px;}
+.howto li::before{content:counter(step);position:absolute;left:16px;top:50%;transform:translateY(-50%);width:32px;height:32px;border-radius:50%;
+  display:grid;place-items:center;background:var(--iris);color:#fff;font-weight:800;font-size:15px;}
+.howto li b{color:var(--ink);}
+.howto.small li{font-size:16px;padding-top:13px;padding-bottom:13px;}
+.alt-way .fine{margin-top:16px;}
+.guide-points{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;}
+.guide-point{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px;}
+.guide-point h3{font-size:17px;margin-bottom:6px;}
+.guide-point p{color:var(--ink-2);font-size:15px;}
+@media (max-width:720px){.guide-points{grid-template-columns:1fr;}}
+.guide-links{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:10px;}
+.guide-links a{display:inline-block;padding:9px 16px;border-radius:999px;background:var(--accent-soft);color:var(--accent-2);font-weight:600;text-decoration:none;font-size:15px;}
+.guide-links a:hover{filter:brightness(.97);}
+.guide-end{margin-top:64px;}
+.guide-end .cta{justify-content:center;}
+@media (max-width:600px){.guide{padding:28px 0 56px;}.howto li{padding-left:58px;font-size:16px;}}

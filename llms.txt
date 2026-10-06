@@ -24,6 +24,23 @@
 - Quick Convert: select files in File Explorer, press Ctrl+Alt+C or right-click > Quick Convert, and pick a format on a wheel.
 - Updates install automatically in the background.
 
+<!-- guides:start -->
+## Guides
+
+- [Convert HEIC to JPG on Windows](https://sujithshalitha.github.io/s-converter/heic-to-jpg/): Convert iPhone HEIC photos to JPG on Windows 10 and 11 in batches, for free and without uploading them. S Converter also turns HEIC into PNG, WebP or PDF.
+- [Convert WebP to JPG or PNG on Windows](https://sujithshalitha.github.io/s-converter/webp-to-jpg/): Turn WebP images saved from websites into JPG or PNG on Windows, in batches, offline and free. Also converts AVIF, TIFF, BMP and GIF.
+- [Convert JPG and other images to PDF on Windows](https://sujithshalitha.github.io/s-converter/jpg-to-pdf/): Combine JPG, PNG and other images into one PDF, or make one PDF per image, on Windows. Free, offline, with pages in the order you choose.
+- [Convert PDF pages to JPG images on Windows](https://sujithshalitha.github.io/s-converter/pdf-to-jpg/): Save every page of a PDF as a JPG image on Windows 10 and 11. Free, offline, works on several PDFs at once.
+- [Convert Word to PDF without Microsoft Office](https://sujithshalitha.github.io/s-converter/word-to-pdf/): Convert DOCX and DOC files to PDF on Windows without Microsoft Office or LibreOffice. Keeps headings, lists, tables, pictures and links. Free and offline.
+- [Convert PowerPoint to PDF without Office](https://sujithshalitha.github.io/s-converter/powerpoint-to-pdf/): Turn PPTX presentations into PDF on Windows without PowerPoint. Each slide keeps its layout, pictures and colours. Free and offline.
+- [Compress a PDF on Windows, offline](https://sujithshalitha.github.io/s-converter/compress-pdf/): Make PDFs smaller on Windows to email or upload them, while keeping text sharp. Free, works offline, handles several PDFs at once.
+- [Merge PDF files on Windows](https://sujithshalitha.github.io/s-converter/merge-pdf/): Combine several PDFs into one file on Windows, in the order you choose. Free, offline, no upload, no page limits.
+- [Convert MKV to MP4 on Windows](https://sujithshalitha.github.io/s-converter/mkv-to-mp4/): Convert MKV videos to MP4 on Windows using your NVIDIA, Intel or AMD graphics card for speed. Free, offline, batch conversion.
+- [Extract MP3 audio from a video on Windows](https://sujithshalitha.github.io/s-converter/video-to-mp3/): Pull the sound out of MP4, MKV, MOV and other videos as MP3 on Windows. Free, offline, with trimming and bitrate options.
+- [Make a GIF from a video on Windows](https://sujithshalitha.github.io/s-converter/video-to-gif/): Turn a video clip into an animated GIF on Windows. Trim it to the moment you want, then convert. Free and offline.
+- [Resize and compress photos in bulk on Windows](https://sujithshalitha.github.io/s-converter/resize-images/): Shrink and resize many photos at once on Windows for email, websites or storage. Set a maximum width and quality. Free and offline.
+<!-- guides:end -->
+
 ## Pages
 
 - [SujithSoft home](https://sujithshalitha.github.io/): the studio, its apps, about Sujith
