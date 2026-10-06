@@ -231,3 +231,10 @@ details p{padding:0 22px 20px;color:var(--ink-2);}
 .about-card p+p{margin-top:12px;}
 @media (max-width:640px){.about-card{grid-template-columns:1fr;gap:24px;}.about-photo{width:120px;height:120px;}}
 @media (max-width:600px){.apps,.about,.contact{padding:52px 0;}}
+
+/* Microsoft's official "Get it from Microsoft" badge, at its own size */
+.store-badge{display:inline-flex;align-items:center;border-radius:8px;transition:transform .15s,box-shadow .15s;}
+.store-badge img{height:54px;width:auto;}
+.store-badge:hover{transform:translateY(-1px);box-shadow:var(--shadow);}
+.app-body .store-badge img{height:44px;}
+@media (max-width:600px){.cta .store-badge{width:100%;justify-content:center;}}

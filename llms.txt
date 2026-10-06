@@ -7,6 +7,7 @@
 > S Converter is a free, offline, all-in-one file converter for Windows 10 and 11, made by Sujith Shalitha Dassanayake. It converts images, video, audio, documents, PDFs and archives in batches on the user's own PC. Files are never uploaded, and it needs no account.
 
 - Website: https://sujithshalitha.github.io/s-converter/
+- Microsoft Store: https://apps.microsoft.com/detail/9NKD1BD2RM1X (installs without a SmartScreen warning; updated by the Store)
 - Download (latest installer): https://github.com/SujithShalitha/s-converter-releases/releases/latest
 - Price: free, no ads, no watermark on output files
 - Platform: Windows 10 (1803 or newer) and Windows 11, 64-bit. Not available for macOS, Linux, Android or iOS.
