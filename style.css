@@ -275,3 +275,7 @@ details p{padding:0 22px 20px;color:var(--ink-2);}
 .guide-end{margin-top:64px;}
 .guide-end .cta{justify-content:center;}
 @media (max-width:600px){.guide{padding:28px 0 56px;}.howto li{padding-left:58px;font-size:16px;}}
+
+/* Demo video in the Quick Convert feature */
+.video-shot video{display:block;width:100%;height:auto;background:#f4f0ff;}
+@media (prefers-reduced-motion:reduce){.video-shot video{animation:none;}}

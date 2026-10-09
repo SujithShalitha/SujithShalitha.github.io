@@ -16,3 +16,10 @@
     }
   } catch (e) {}
 })();
+
+// Respect "reduce motion": don't autoplay the demo video
+try {
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    document.querySelectorAll('video[autoplay]').forEach((v) => { v.removeAttribute('autoplay'); v.pause(); v.controls = true; });
+  }
+} catch (e) {}
