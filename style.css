@@ -91,6 +91,7 @@ kbd{font:600 .82em var(--font);padding:2px 7px;border-radius:6px;background:var(
 .nav-links a{color:var(--ink-2);text-decoration:none;font-size:15px;font-weight:550;}
 .nav-links a:hover{color:var(--ink);}
 @media (max-width:720px){.nav-links{display:none;}.nav .btn{margin-left:auto;}}
+@media (max-width:400px){.nav-inner{gap:12px;}.nav .btn-sm{padding:0 14px;}.brand{gap:8px;flex-shrink:0;}}
 
 /* Hero */
 .hero{position:relative;padding:72px 0 56px;background:var(--hero-glow);}
