@@ -306,3 +306,13 @@ details p{padding:0 22px 20px;color:var(--ink-2);}
 .yt-icon{position:absolute;left:50%;top:50%;width:76px;height:54px;margin:-27px 0 0 -38px;border-radius:14px;background:#5b45e6;box-shadow:0 10px 30px rgba(0,0,0,.35);}
 .yt-icon::after{content:"";position:absolute;left:31px;top:15px;border-style:solid;border-width:12px 0 12px 20px;border-color:transparent transparent transparent #fff;}
 .yt-play:focus-visible{outline:3px solid var(--accent);outline-offset:-3px;}
+/* Comparison tables: row labels may wrap */
+.guide .table-wrap tbody th{white-space:normal;min-width:150px;}
+.compare-points{grid-template-columns:repeat(2,minmax(0,1fr));}
+@media (max-width:720px){.compare-points{grid-template-columns:1fr;}}
+/* Sinhala pages */
+:lang(si){font-family:'Iskoola Pota','Nirmala UI','Noto Sans Sinhala',var(--font);}
+:lang(si) h1,:lang(si) h2,:lang(si) h3{font-family:'Iskoola Pota','Nirmala UI','Noto Sans Sinhala',var(--display);line-height:1.35;}
+:lang(si) p,:lang(si) li{line-height:1.8;}
+.si-list{display:grid;gap:10px;padding-left:22px;color:var(--ink-2);font-size:17px;}
+.si-list b{color:var(--ink);}
