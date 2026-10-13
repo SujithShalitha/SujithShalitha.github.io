@@ -41,6 +41,23 @@
 - [Resize and compress photos in bulk on Windows](https://sujithshalitha.github.io/s-converter/resize-images/): Shrink and resize many photos at once on Windows for email, websites or storage. Set a maximum width and quality. Free and offline.
 <!-- guides:end -->
 
+<!-- tutorials:start -->
+## Tutorials
+
+How to use S Converter's features, step by step. Index: https://sujithshalitha.github.io/s-converter/tutorials/
+
+- [Getting started with S Converter](https://sujithshalitha.github.io/s-converter/tutorials/getting-started/): Install S Converter on Windows 10 or 11 and convert your first files: adding files, picking a format, choosing where files are saved and finding the results.
+- [Quick Convert: convert files without opening the app](https://sujithshalitha.github.io/s-converter/tutorials/quick-convert/): Select files in File Explorer, press Ctrl+Alt+C, and pick a format on the wheel that opens at your mouse. How the Quick Convert wheel works in S Converter.
+- [Convert files from the right-click menu](https://sujithshalitha.github.io/s-converter/tutorials/right-click-menu/): Right-click photos, videos, documents, PDFs, archives or folders in File Explorer and convert, compress, zip or extract them with S Converter.
+- [One-click presets: Email, Instagram, WhatsApp and more](https://sujithshalitha.github.io/s-converter/tutorials/one-click-presets/): Resize photos for email or Instagram, shrink videos for WhatsApp, make GIFs and ringtones with one click in S Converter.
+- [Make a video small enough for WhatsApp or email](https://sujithshalitha.github.io/s-converter/tutorials/compress-video/): Shrink a large video on Windows so it fits WhatsApp, email or a website upload: 720p or 480p MP4, using your graphics card, offline and free.
+- [Add a watermark to photos and videos](https://sujithshalitha.github.io/s-converter/tutorials/watermark/): Put your name, logo or © text on photos and videos in batches with S Converter: drag it into place, set the size, colour and opacity, and see the result live.
+- [Trim a video or audio file](https://sujithshalitha.github.io/s-converter/tutorials/trim/): Cut the start and end off a video or song with S Converter’s visual trimmer: drag two handles, play it back, and save just the part you want.
+- [Zip a folder with a password, and extract archives](https://sujithshalitha.github.io/s-converter/tutorials/zip-password/): Make a password-protected ZIP of any folder on Windows with S Converter, and extract ZIP, 7Z, RAR and TAR.GZ files with a right-click.
+- [Split, rotate, number and extract PDF pages](https://sujithshalitha.github.io/s-converter/tutorials/pdf-tools/): Split a PDF into pages or ranges, rotate pages, add page numbers and keep only the pages you need, offline on Windows with S Converter’s PDF tools.
+- [Settings: themes, GPU speed, output folder and updates](https://sujithshalitha.github.io/s-converter/tutorials/settings/): Make S Converter yours: choose one of five themes, use your graphics card for faster video, set the default output folder and quality, and change the Quick Convert shortcut.
+<!-- tutorials:end -->
+
 ## Pages
 
 - [SujithSoft home](https://sujithshalitha.github.io/): the studio, its apps, about Sujith

@@ -23,3 +23,15 @@ try {
     document.querySelectorAll('video[autoplay]').forEach((v) => { v.removeAttribute('autoplay'); v.pause(); v.controls = true; });
   }
 } catch (e) {}
+
+// YouTube videos load only when someone presses play (no tracking before that)
+document.querySelectorAll('.yt[data-yt]').forEach((box) => {
+  box.querySelector('.yt-play')?.addEventListener('click', () => {
+    const frame = document.createElement('iframe');
+    frame.src = `https://www.youtube-nocookie.com/embed/${encodeURIComponent(box.dataset.yt)}?autoplay=1&rel=0`;
+    frame.title = box.querySelector('.yt-play').getAttribute('aria-label').replace(/^Play the video: /, '');
+    frame.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
+    frame.allowFullscreen = true;
+    box.replaceChildren(frame);
+  });
+});
