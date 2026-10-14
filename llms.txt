@@ -56,7 +56,7 @@ How to use S Converter's features, step by step. Index: https://sujithshalitha.g
 - [Trim a video or audio file](https://sujithshalitha.github.io/s-converter/tutorials/trim/): Cut the start and end off a video or song with S Converter’s visual trimmer: drag two handles, play it back, and save just the part you want.
 - [Zip a folder with a password, and extract archives](https://sujithshalitha.github.io/s-converter/tutorials/zip-password/): Make a password-protected ZIP of any folder on Windows with S Converter, and extract ZIP, 7Z, RAR and TAR.GZ files with a right-click.
 - [Split, rotate, number and extract PDF pages](https://sujithshalitha.github.io/s-converter/tutorials/pdf-tools/): Split a PDF into pages or ranges, rotate pages, add page numbers and keep only the pages you need, offline on Windows with S Converter’s PDF tools.
-- [Settings: themes, GPU speed, output folder and updates](https://sujithshalitha.github.io/s-converter/tutorials/settings/): Make S Converter yours: choose one of five themes, use your graphics card for faster video, set the default output folder and quality, and change the Quick Convert shortcut.
+- [Settings: themes, GPU speed, output folder and updates](https://sujithshalitha.github.io/s-converter/tutorials/settings/): Make S Converter yours: choose one of four themes and your language, use your graphics card for faster video, set the default output folder and quality, and change the Quick Convert shortcut.
 
 ## Comparisons
 
