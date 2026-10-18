@@ -57,6 +57,12 @@ How to use S Converter's features, step by step. Index: https://sujithshalitha.g
 - [Zip a folder with a password, and extract archives](https://sujithshalitha.github.io/s-converter/tutorials/zip-password/): Make a password-protected ZIP of any folder on Windows with S Converter, and extract ZIP, 7Z, RAR and TAR.GZ files with a right-click.
 - [Split, rotate, number and extract PDF pages](https://sujithshalitha.github.io/s-converter/tutorials/pdf-tools/): Split a PDF into pages or ranges, rotate pages, add page numbers and keep only the pages you need, offline on Windows with S Converter’s PDF tools.
 - [Settings: themes, GPU speed, output folder and updates](https://sujithshalitha.github.io/s-converter/tutorials/settings/): Make S Converter yours: choose one of four themes and your language, use your graphics card for faster video, set the default output folder and quality, and change the Quick Convert shortcut.
+- [Save your own presets](https://sujithshalitha.github.io/s-converter/tutorials/my-presets/): Save the format and settings you use most as your own one-click preset in S Converter, then use it from the app or the Quick Convert wheel.
+- [Remove location and camera details from photos and videos](https://sujithshalitha.github.io/s-converter/tutorials/private-copy/): Photos and videos can carry your GPS location, camera and date. Make a private copy without them in one click with S Converter, offline on Windows.
+- [Rename a batch of files as you convert](https://sujithshalitha.github.io/s-converter/tutorials/batch-rename/): Give converted files tidy names like Holiday-001, 002, 003 or 2026-08-14 Beach, with S Converter’s Rename tool. Free and offline for Windows.
+- [Lock a PDF with a password, or unlock one](https://sujithshalitha.github.io/s-converter/tutorials/lock-pdf/): Add a password to a PDF with AES-256 encryption, or remove the password from a PDF you can open, with S Converter. Free, offline, no upload.
+- [Watch folders: convert new files automatically](https://sujithshalitha.github.io/s-converter/tutorials/watch-folders/): Point S Converter at a folder, like Screenshots or Downloads, and every new file is converted automatically. Plus the conversion history.
+- [Use S Converter in your language](https://sujithshalitha.github.io/s-converter/tutorials/languages/): S Converter speaks 20 languages, including Sinhala, Spanish, German, French, Hindi, Japanese, Korean and Chinese. How to change the language.
 
 ## Comparisons
 
