@@ -11,7 +11,7 @@
 - Microsoft Store: https://apps.microsoft.com/detail/9NKD1BD2RM1X (installs without a SmartScreen warning; updated by the Store)
 - Download (latest installer): https://github.com/SujithShalitha/s-converter-releases/releases/latest
 - Price: free, no ads, no watermark on output files
-- Platform: Windows 10 (1803 or newer) and Windows 11, 64-bit. Not available for macOS, Linux, Android or iOS.
+- Platform: Windows 10 (1809 or newer) and Windows 11, 64-bit. Not available for macOS, Linux, Android or iOS.
 
 ### What it does
 
@@ -40,6 +40,12 @@
 - [Extract MP3 audio from a video on Windows](https://sujithshalitha.github.io/s-converter/video-to-mp3/): Pull the sound out of MP4, MKV, MOV and other videos as MP3 on Windows. Free, offline, with trimming and bitrate options.
 - [Make a GIF from a video on Windows](https://sujithshalitha.github.io/s-converter/video-to-gif/): Turn a video clip into an animated GIF on Windows. Trim it to the moment you want, then convert. Free and offline.
 - [Resize and compress photos in bulk on Windows](https://sujithshalitha.github.io/s-converter/resize-images/): Shrink and resize many photos at once on Windows for email, websites or storage. Set a maximum width and quality. Free and offline.
+- [Compress a photo to under 100 KB on Windows](https://sujithshalitha.github.io/s-converter/compress-image-to-100kb/): Make a JPG under 100 KB, 50 KB, 200 KB or any size you need for an upload form, on Windows 10 and 11. Batch, offline and free, with the best quality that fits.
+- [Make a US visa photo: 600 × 600 px, under 240 KB](https://sujithshalitha.github.io/s-converter/us-visa-photo/): Turn any photo into a US visa or DV lottery photo on Windows: a square 600 × 600 pixel JPG under 240 KB, cropped around the face. Free, offline, no upload.
+- [Resize a photo for a passport or ID form (35 × 45 mm)](https://sujithshalitha.github.io/s-converter/passport-photo-size/): Resize and crop a photo to 35 × 45 mm, 2 × 2 inch or any pixel size and KB limit for passport, ID and exam applications, on Windows. Free and offline.
+- [Compress a video to under 20 MB for email](https://sujithshalitha.github.io/s-converter/compress-video-for-email/): Make a video small enough to email, under 20 MB, 25 MB or any size, on Windows 10 and 11. S Converter works out the bitrate from the length. Free and offline.
+- [Convert a screenshot or copied image to JPG, straight from the clipboard](https://sujithshalitha.github.io/s-converter/screenshot-to-jpg/): Convert a screenshot or an image you copied into JPG, WebP or PDF without saving it first, then paste the result anywhere. Free and offline, for Windows 10 and 11.
+- [Compress a video for Discord (under 10 MB)](https://sujithshalitha.github.io/s-converter/compress-video-for-discord/): Make a video fit Discord’s 10 MB upload limit on Windows 11 and 10, keeping it as sharp as possible. Free, offline, no watermark, no upload to a website first.
 <!-- guides:end -->
 
 <!-- tutorials:start -->
@@ -63,12 +69,38 @@ How to use S Converter's features, step by step. Index: https://sujithshalitha.g
 - [Lock a PDF with a password, or unlock one](https://sujithshalitha.github.io/s-converter/tutorials/lock-pdf/): Add a password to a PDF with AES-256 encryption, or remove the password from a PDF you can open, with S Converter. Free, offline, no upload.
 - [Watch folders: convert new files automatically](https://sujithshalitha.github.io/s-converter/tutorials/watch-folders/): Point S Converter at a folder, like Screenshots or Downloads, and every new file is converted automatically. Plus the conversion history.
 - [Use S Converter in your language](https://sujithshalitha.github.io/s-converter/tutorials/languages/): S Converter speaks 20 languages, including Sinhala, Spanish, German, French, Hindi, Japanese, Korean and Chinese. How to change the language.
+- [Make files fit a size limit](https://sujithshalitha.github.io/s-converter/tutorials/make-it-fit/): Use S Converter’s Max size to make photos under 100 KB and videos under 20 MB, and Form photo for visa, passport and exam photos at an exact pixel size.
+- [Recipes: convert, rename and pack in one click](https://sujithshalitha.github.io/s-converter/tutorials/recipes/): Build an S Converter recipe that converts files, renames them with a pattern and packs them into one ZIP or one PDF, in a single click from the app or the wheel.
+- [Paste as…: convert the clipboard image](https://sujithshalitha.github.io/s-converter/tutorials/paste-as/): Convert a screenshot or copied image to JPG, PNG or WebP straight from the clipboard with S Converter’s Quick Convert shortcut, and paste the result anywhere.
 
 ## Comparisons
 
 - [S Converter vs online file converters](https://sujithshalitha.github.io/s-converter/compare/online-converters/): Online converters like CloudConvert, Convertio and FreeConvert upload your files to a server. S Converter converts them on your own PC. Here’s how the two compare on privacy, speed, limits and price.
 - [The best free file converters for Windows](https://sujithshalitha.github.io/s-converter/compare/best-free-converters/): An honest look at free, offline file converters for Windows: S Converter, HandBrake, Format Factory, XnConvert and LibreOffice, and which one fits which job.
 <!-- tutorials:end -->
+
+<!-- docs:start -->
+## Documentation
+
+The full user guide. Source on GitHub: https://github.com/SujithShalitha/s-converter-releases/tree/main/docs
+
+- [S Converter documentation](https://sujithshalitha.github.io/s-converter/docs/): Everything S Converter can do, step by step. Convert images, video, audio, documents and PDFs on Windows, offline, and learn Quick Convert, recipes, form photos and more.
+- [Install and update S Converter](https://sujithshalitha.github.io/s-converter/docs/install/): How to install S Converter on Windows 10 or 11 from the Microsoft Store or GitHub, what the "Windows protected your PC" message means, and how updates work.
+- [Convert files with S Converter](https://sujithshalitha.github.io/s-converter/docs/convert/): How to convert images, video, audio and documents in S Converter's main window. Add files, choose a format and quality, pick where files are saved, and read the results.
+- [Quick Convert wheel](https://sujithshalitha.github.io/s-converter/docs/quick-convert/): Convert files without opening S Converter. Select files in File Explorer, on the desktop or in an Open/Save dialog, or copy an image, then press Ctrl+Alt+C and pick a format on the wheel.
+- [S Converter in the right-click menu](https://sujithshalitha.github.io/s-converter/docs/right-click/): Convert, compress or zip files and folders straight from File Explorer's right-click menu on Windows 11 and 10 with S Converter.
+- [Presets and recipes](https://sujithshalitha.github.io/s-converter/docs/presets-recipes/): Use S Converter's one-click presets, save your own, and build recipes that convert, rename and pack files into one ZIP or PDF in a single click.
+- [Keyboard shortcuts](https://sujithshalitha.github.io/s-converter/docs/shortcuts/): Every S Converter keyboard shortcut: the Quick Convert wheel, Presets and Repeat last keys, wheel controls, the page order screen and the preview.
+- [Make it fit — file-size limits and form photos](https://sujithshalitha.github.io/s-converter/docs/make-it-fit/): Make a photo under 100 KB, a video under 20 MB for email, or a visa, passport or exam photo at the exact pixel size, with S Converter's Max size and Form photo tools.
+- [Trim, watermark and rename](https://sujithshalitha.github.io/s-converter/docs/edit/): Trim videos and audio, add a text or logo watermark to photos and videos, and rename a whole batch with a pattern in S Converter.
+- [PDF tools](https://sujithshalitha.github.io/s-converter/docs/pdf-tools/): Merge, split, compress, rotate, number, extract pages, lock and unlock PDFs, and turn images into PDF or PDF into images, privately on Windows with S Converter.
+- [ZIP, 7Z, RAR and TAR.GZ archives](https://sujithshalitha.github.io/s-converter/docs/archives/): Zip folders, protect ZIP files with an AES-256 password, and extract ZIP, 7Z, RAR, TAR, ISO and CAB archives on Windows with S Converter.
+- [Watch folders and conversion history](https://sujithshalitha.github.io/s-converter/docs/watch-history/): Make S Converter convert new files in a folder automatically, like screenshots to JPG or scans to PDF, and see everything you converted in History.
+- [Privacy and private copies](https://sujithshalitha.github.io/s-converter/docs/privacy/): S Converter works offline and never uploads your files. Learn what stays on your PC and how to remove GPS location and camera details from photos and videos.
+- [Settings, languages and themes](https://sujithshalitha.github.io/s-converter/docs/settings/): Every S Converter setting explained: language, output folder, quality, graphics card, Quick Convert shortcuts, right-click menu, watch folders, updates and themes.
+- [Supported formats](https://sujithshalitha.github.io/s-converter/docs/formats/): Every file format S Converter reads and writes on Windows — images including HEIC and RAW, video, audio, Word, PowerPoint, Excel, PDF and archives.
+- [Troubleshooting and FAQ](https://sujithshalitha.github.io/s-converter/docs/troubleshooting/): Fixes for common S Converter questions — the shortcut does nothing, a white window, Windows warnings, files that won't convert, and where files are saved.
+<!-- docs:end -->
 
 ## Pages
 
