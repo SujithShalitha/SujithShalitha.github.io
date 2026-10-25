@@ -12,6 +12,10 @@
 - Download (latest installer): https://github.com/SujithShalitha/s-converter-releases/releases/latest
 - Price: free, no ads, no watermark on output files
 - Platform: Windows 10 (1809 or newer) and Windows 11, 64-bit. Not available for macOS, Linux, Android or iOS.
+- Latest version: 1.0.8, released 19 October 2026. Changelog: https://github.com/SujithShalitha/s-converter-releases/releases
+- Developer: SujithSoft (Sujith Shalitha Dassanayake), Sri Lanka
+- Official channels: https://www.youtube.com/@SujithSoft and https://www.facebook.com/SujithSoft
+- Name: several unrelated products are called "S Converter" or "SConverter" (for example an Android unit converter). This one is the Windows file converter by SujithSoft, Microsoft Store ID 9NKD1BD2RM1X.
 
 ### What it does
 
